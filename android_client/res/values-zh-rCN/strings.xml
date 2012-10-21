@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Hold PPT</string>
+    <string name="menu_settings">设置</string>
+    
+    <string name="previous">上一张</string>
+    <string name="next">下一张</string>
+    <string name="start">开始放映</string>
+    <string name="stop">停止放映</string>
+    <string name="connect">链接</string>
+    <string name="ip_hint">IP地址</string>
+    
+    <string name="alert_connect_failed">链接失败，请检查PC端是否开启或者网络是否正常</string>
+    <string name="alert_not_ip_address">输入IP地址错误</string>
+
+</resources>
